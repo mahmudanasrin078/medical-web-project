@@ -1,4 +1,4 @@
-# MedicalCare - Healthcare E-commerce Platform
+# Siella Medical - Healthcare E-commerce Platform
 
 A comprehensive medical products e-commerce platform built with Next.js 16, featuring authentication, product management, and responsive design.
 
