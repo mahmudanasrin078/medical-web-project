@@ -7,7 +7,9 @@ A comprehensive medical products e-commerce platform built with Next.js 16, feat
 1. Live Link: https://medical-website-2.vercel.app
   
  Git Repository:https://github.com/mahmudanasrin078/medical-web-project
-  
+
+ Login Credentials email  for mock login:  admin@example.com 
+ Password: password123
  
 
 2. Install dependencies:
