@@ -10,7 +10,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           {/* Heading */}
           <h1 className="text-2xl sm:text-3xl md:text-6xl font-bold mb-3 md:mb-4">
-            Welcome to MedicalCare
+            Welcome to Siella MedicalCare
           </h1>
 
           {/* Description */}
@@ -151,7 +151,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-8 md:mb-0">
               <h2 className="text-3xl font-bold mb-4 text-gray-800">
-                About MedicalCare
+                About Siella MedicalCare
               </h2>
               <p className="text-gray-600 mb-4">
                 We are committed to providing high-quality medical products and
@@ -172,35 +172,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Testimonials
-      <section className="py-16 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-12 text-gray-800">
-            What Our Customers Say
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {[1, 2, 3].map((testimonial) => (
-              <div
-                key={testimonial}
-                className="bg-white p-6 rounded-lg shadow-md"
-              >
-                <div className="flex items-center mb-4">
-                  <div className="w-12 h-12 bg-gray-300 rounded-full mr-4"></div>
-                  <div>
-                    <h4 className="font-semibold">Customer {testimonial}</h4>
-                    <div className="text-yellow-400">{"★".repeat(5)}</div>
-                  </div>
-                </div>
-                <p className="text-gray-600 italic">
-                  "Excellent products and service. Highly recommend MedicalCare
-                  for all your medical supply needs."
-                </p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section> */}
-
+     
+             
       {/* Testimonials */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4">
