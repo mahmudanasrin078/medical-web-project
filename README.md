@@ -4,11 +4,11 @@ A comprehensive medical products e-commerce platform built with Next.js 16, feat
 
 ## Setup & Installation Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd medical-website-2
-   ```
+1. Live Link: https://medical-website-2.vercel.app
+  
+ Git Repository:https://github.com/mahmudanasrin078/medical-web-project
+  
+ 
 
 2. Install dependencies:
    ```bash
